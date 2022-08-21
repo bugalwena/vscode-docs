@@ -78,6 +78,7 @@ VS Code also supports [User Defined Snippets](/docs/editor/userdefinedsnippets.m
 There is support for CSS version <= 2.1, Sass version <= 3.2 and Less version <= 2.3.
 
 >**Note:** You can disable VS Code's default CSS, Sass or Less validation by setting the corresponding `.validate` User or Workspace [setting](/docs/getstarted/settings.md) to false.
+>
 >```json
 >"css.validate": false
 >```
