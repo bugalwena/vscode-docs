@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "lightrun.lightrunplugin-saas"
+        "lightrun.lightrunplugin-saas",
+        "github.copilot",
+        "GitHub.copilot"
     ]
 }
